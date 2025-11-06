@@ -24,6 +24,7 @@
   <table>
     <thead>
       <tr>
+        <th align="center"> </th>
         <th align="center">Application</th>
         <th align="center">Residential IP</th>
         <th align="center">Datacenter IP</th>
@@ -31,56 +32,67 @@
     </thead>
     <tbody>
       <tr>
+        <td align="center"><a href="https://www.castarsdk.com/register?c=c5b7ba22"><img src="./img/ico_CastarSDK.png" width="50px"></a></td>
         <td align="center"><a href="https://www.castarsdk.com/register?c=c5b7ba22">CastarSDK</a></td>
         <td align="center">✔️</td>
         <td align="center">✔️</td>
       </tr>
       <tr>
+        <td align="center"><a href="https://packetsdk.com/?r=L2kDofIF"><img src="./img/ico_PacketSDK.png" width="50px"></a></td>
         <td align="center"><a href="https://packetsdk.com/?r=L2kDofIF">PacketSDK</a></td>
         <td align="center">✔️</td>
         <td align="center">✔️</td>
       </tr>
       <tr>
+        <td align="center"><a href="https://traffmonetizer.com/?aff=92836"><img src="./img/ico_TraffMonetizer.png" width="50px"></a></td>
         <td align="center"><a href="https://traffmonetizer.com/?aff=92836">TraffMonetizer</a></td>
         <td align="center">✔️</td>
         <td align="center">✔️</td>
       </tr>
       <tr>
+        <td align="center"><a href="https://ur.io/c?bonus=0MYG84"><img src="./img/ico_UrNetwork.png" width="50px"></a></td>
         <td align="center"><a href="https://ur.io/c?bonus=0MYG84">UrNetwork</a></td>
         <td align="center">✔️</td>
         <td align="center">✔️</td>
       </tr>
       <tr>
+        <td align="center"><a href="https://earn.fm/ref/LERO0EVX"><img src="./img/ico_EarnFM.png" width="50px"></a></td>
         <td align="center"><a href="https://earn.fm/ref/LERO0EVX">EarnFM</a></td>
         <td align="center">✔️</td>
         <td align="center">✔️</td>
       </tr>
       <tr>
+        <td align="center"><a href="https://link.repocket.com/3KLE"><img src="./img/ico_RePocket.png" width="50px"></a></td>
         <td align="center"><a href="https://link.repocket.com/3KLE">RePocket</a></td>
         <td align="center">✔️</td>
         <td align="center">✔️</td>
       </tr>
       <tr>
+        <td align="center"><a href="https://pawns.app/?r=an2kin"><img src="./img/ico_Pawns.png" width="50px"></a></td>
         <td align="center"><a href="https://pawns.app/?r=an2kin">Pawns</a></td>
         <td align="center">✔️</td>
         <td align="center">❌</td>
       </tr>
       <tr>
+        <td align="center"><a href=""><img src="" width="50px"></a></td>
         <td align="center"><a href="https://join.honeygain.com/VILLA9A2E9">HoneyGain</a></td>
         <td align="center">✔️</td>
         <td align="center">❌</td>
       </tr>
       <tr>
+        <td align="center"><a href="https://packetstream.io/?psr=PhF"><img src="./img/ico_PacketStream.png" width="50px"></a></td>
         <td align="center"><a href="https://packetstream.io/?psr=PhF">PacketStream</a></td>
         <td align="center">✔️</td>
         <td align="center">❌</td>
       </tr>
       <tr>
+        <td align="center"><a href=""><img src="" width="50px"></a></td>
         <td align="center"><a href="https://t.me/peer2profit_app_bot?start=1628962882611800423c343">Peer2Profit</a></td>
         <td align="center">✔️</td>
         <td align="center">✔️</td>
       </tr>
       <tr>
+        <td align="center"><a href=""><img src="" width="50px"></a></td>
         <td align="center"><a href="https://wipter.com/register?via=66075F1E60">Wipter</a></td>
         <td align="center">✔️</td>
         <td align="center">❌</td>
