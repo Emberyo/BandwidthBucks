@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="BB.png" alt="Logo" width="50%">
+  <img src="./img/Logo.png" alt="Logo" width="50%">
 </div>
 
 # 🌐 BandwidthBucks 📶
@@ -122,7 +122,7 @@
 
 Run the script with one of the following commands:
 <div align="center">
-  <img src="menu.png" alt="BandwidthBucks Command Menu">
+  <img src="./img/Console.png" alt="BandwidthBucks Command Menu">
 </div>
 
 ## ⚠️ Disclaimer
